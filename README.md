@@ -9,4 +9,5 @@ demo-repository updated!
  
 
  1. Open index.html in the browser
+ 2. Added another piece of text
        
